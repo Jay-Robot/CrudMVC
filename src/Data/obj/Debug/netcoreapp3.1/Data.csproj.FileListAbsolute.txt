@@ -1,0 +1,6 @@
+C:\Users\jonat\source\repos\CrudMVC\src\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\jonat\source\repos\CrudMVC\src\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\jonat\source\repos\CrudMVC\src\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\CrudMVC\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\CrudMVC\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\jonat\source\repos\CrudMVC\src\Data\bin\Debug\netcoreapp3.1\Business.dll
