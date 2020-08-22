@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using Data.Context;
 using Business.Interfaces;
 using Data.Repository;
+using AutoMapper;
 
 namespace App
 {
@@ -40,6 +41,10 @@ namespace App
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+
+            services.AddAutoMapper(typeof(Startup));
+
             services.AddControllersWithViews();
             services.AddRazorPages();
 
