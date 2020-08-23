@@ -51,7 +51,7 @@ namespace App.Controllers
         {
             produtoViewModel = await PopularFornecedores(new ProdutoViewModel());
 
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
                 return View(produtoViewModel);
 
             var imgPrefixo = Guid.NewGuid() + "_";
@@ -99,7 +99,7 @@ namespace App.Controllers
                     return View(produtoViewModel);
                 }
 
-                produtoAtualizacao.Imagem = = imgPrefixo + produtoViewModel.ImagemUpload.FileName;
+                produtoAtualizacao.Imagem = imgPrefixo + produtoViewModel.ImagemUpload.FileName;
             }
 
             produtoAtualizacao.Nome = produtoViewModel.Nome;
