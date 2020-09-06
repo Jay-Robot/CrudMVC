@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "04nYeZXymZYI5HaB4CuGb8BxSauSBbkr/6ZklRba6YcDwCg4jQYmJBZRabNXu2n+8T9kCjmM1RL609I8BvIWhQ==",
+  "dgSpecHash": "vAVv6SPjFHgq06uav8TmY50bepbvd9aXCtZZn9XJfo9GNS1sPnd4MgTnrxOpEf4oQYBpedT7u8pgsv5WlECj0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\source\\repos\\CrudMVC\\src\\Data\\Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

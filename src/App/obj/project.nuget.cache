@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F+OqqMeXdq+bIR0j1PY/8+9+uwLF1mSeralRpmomPOAuIAPrAwFvQWcLxlRciKBaGQojM6M6AZCYzi6UDjMKmA==",
+  "dgSpecHash": "qkSXKrhBpIwRztuiY+44BmtHYBvIjYH5m44JMiTEozH9Hou51F+1jaXwJJWfzRsvcYPAkuliNAcXS8UeybDQfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\source\\repos\\CrudMVC\\src\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.7\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.7.nupkg.sha512",

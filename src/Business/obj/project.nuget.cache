@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qjDkv1frgL2pom7k3QnsbuoATr/AsIyYGFtoyFN0DngLgZ91cdAQLXgLpaOH+bgl7oTBlvDGXwvuEQf2njBw9A==",
+  "dgSpecHash": "dxtPYm6GmVg/iS6ulrZo9vcjHq6eHu1+4nC6Oc7Rj8FqOjwlrbcp0Z5x93AIYt+jOEjaPe77uESqXVW06ilpbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\source\\repos\\CrudMVC\\src\\Business\\Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
